@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 804cea2be270cad4c843e149f8539ee0
+timeCreated: 1462692841
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cat_Bone001
+    100002: Cat_Bone002
+    100004: Cat_Bone003
+    100006: Cat_Bone004
+    100008: Cat_Bone005
+    100010: Cat_Bone006
+    100012: Cat_Bone007
+    100014: Cat_Bone008
+    100016: Cat_Bone009
+    100018: Cat_Bone010
+    100020: Cat_Bone011
+    100022: Cat_Bone012
+    100024: Cat_Bone013
+    100026: Cat_Bone014
+    100028: Cat_Bone015
+    100030: Cat_Bone016
+    100032: Cat_Bone017
+    100034: Cat_Bone018
+    100036: Cat_Bone019
+    100038: Cat_Bone020
+    100040: Cat_Bone021
+    100042: Cat_Bone022
+    100044: Cat_Bone023
+    100046: Cat_Bone024
+    100048: Cat_Bone025
+    100050: Cat_Bone026
+    100052: Cat_Bone027
+    100054: Cat_Bone028
+    100056: Cat_Bone029
+    100058: Cat_Bone030
+    100060: Caterpillar
+    100062: //RootNode
+    400000: Cat_Bone001
+    400002: Cat_Bone002
+    400004: Cat_Bone003
+    400006: Cat_Bone004
+    400008: Cat_Bone005
+    400010: Cat_Bone006
+    400012: Cat_Bone007
+    400014: Cat_Bone008
+    400016: Cat_Bone009
+    400018: Cat_Bone010
+    400020: Cat_Bone011
+    400022: Cat_Bone012
+    400024: Cat_Bone013
+    400026: Cat_Bone014
+    400028: Cat_Bone015
+    400030: Cat_Bone016
+    400032: Cat_Bone017
+    400034: Cat_Bone018
+    400036: Cat_Bone019
+    400038: Cat_Bone020
+    400040: Cat_Bone021
+    400042: Cat_Bone022
+    400044: Cat_Bone023
+    400046: Cat_Bone024
+    400048: Cat_Bone025
+    400050: Cat_Bone026
+    400052: Cat_Bone027
+    400054: Cat_Bone028
+    400056: Cat_Bone029
+    400058: Cat_Bone030
+    400060: //RootNode
+    400062: Caterpillar
+    4300000: Caterpillar
+    7400000: may_caterpillar
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Caterpillar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: may_caterpillar
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_Bone001
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone005
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone005/Cat_Bone006
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone005/Cat_Bone006/Cat_Bone007
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone005/Cat_Bone006/Cat_Bone007/Cat_Bone008
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone005/Cat_Bone006/Cat_Bone007/Cat_Bone008/Cat_Bone009
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone005/Cat_Bone006/Cat_Bone007/Cat_Bone008/Cat_Bone009/Cat_Bone010
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone027
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone027/Cat_Bone029
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone028
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone004/Cat_Bone028/Cat_Bone030
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone023
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone023/Cat_Bone026
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone024
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone003/Cat_Bone024/Cat_Bone025
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone019
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone019/Cat_Bone022
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone020
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone002/Cat_Bone020/Cat_Bone021
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone011
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone011/Cat_Bone012
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone011/Cat_Bone012/Cat_Bone013
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone011/Cat_Bone012/Cat_Bone013/Cat_Bone014
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone015
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone015/Cat_Bone016
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone017
+        weight: 1
+      - path: Cat_Bone001/Cat_Bone017/Cat_Bone018
+        weight: 1
+      - path: Caterpillar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

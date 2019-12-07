@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 2ea883a736a62bf428b0fa31c016fdfa
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: ani_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ani_0
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PC_079
+        weight: 1
+      - path: PC_Bone001
+        weight: 1
+      - path: PC_Bone001/PC_001
+        weight: 1
+      - path: PC_Bone001/PC_002
+        weight: 1
+      - path: PC_Bone001/PC_003
+        weight: 1
+      - path: PC_Bone001/PC_004
+        weight: 1
+      - path: PC_Bone001/PC_005
+        weight: 1
+      - path: PC_Bone001/PC_006
+        weight: 1
+      - path: PC_Bone001/PC_007
+        weight: 1
+      - path: PC_Bone001/PC_008
+        weight: 1
+      - path: PC_Bone001/PC_009
+        weight: 1
+      - path: PC_Bone001/PC_010
+        weight: 1
+      - path: PC_Bone001/PC_011
+        weight: 1
+      - path: PC_Bone001/PC_012
+        weight: 1
+      - path: PC_Bone001/PC_013
+        weight: 1
+      - path: PC_Bone001/PC_014
+        weight: 1
+      - path: PC_Bone001/PC_015
+        weight: 1
+      - path: PC_Bone001/PC_016
+        weight: 1
+      - path: PC_Bone001/PC_017
+        weight: 1
+      - path: PC_Bone001/PC_018
+        weight: 1
+      - path: PC_Bone001/PC_019
+        weight: 1
+      - path: PC_Bone001/PC_020
+        weight: 1
+      - path: PC_Bone001/PC_021
+        weight: 1
+      - path: PC_Bone001/PC_022
+        weight: 1
+      - path: PC_Bone001/PC_023
+        weight: 1
+      - path: PC_Bone001/PC_024
+        weight: 1
+      - path: PC_Bone001/PC_025
+        weight: 1
+      - path: PC_Bone001/PC_026
+        weight: 1
+      - path: PC_Bone001/PC_027
+        weight: 1
+      - path: PC_Bone001/PC_028
+        weight: 1
+      - path: PC_Bone001/PC_029
+        weight: 1
+      - path: PC_Bone001/PC_030
+        weight: 1
+      - path: PC_Bone001/PC_031
+        weight: 1
+      - path: PC_Bone001/PC_032
+        weight: 1
+      - path: PC_Bone001/PC_033
+        weight: 1
+      - path: PC_Bone001/PC_034
+        weight: 1
+      - path: PC_Bone001/PC_035
+        weight: 1
+      - path: PC_Bone001/PC_036
+        weight: 1
+      - path: PC_Bone001/PC_037
+        weight: 1
+      - path: PC_Bone001/PC_038
+        weight: 1
+      - path: PC_Bone001/PC_039
+        weight: 1
+      - path: PC_Bone001/PC_042
+        weight: 1
+      - path: PC_Bone001/PC_043
+        weight: 1
+      - path: PC_Bone001/PC_044
+        weight: 1
+      - path: PC_Bone001/PC_045
+        weight: 1
+      - path: PC_Bone001/PC_046
+        weight: 1
+      - path: PC_Bone001/PC_047
+        weight: 1
+      - path: PC_Bone001/PC_048
+        weight: 1
+      - path: PC_Bone001/PC_049
+        weight: 1
+      - path: PC_Bone001/PC_050
+        weight: 1
+      - path: PC_Bone001/PC_051
+        weight: 1
+      - path: PC_Bone001/PC_052
+        weight: 1
+      - path: PC_Bone001/PC_053
+        weight: 1
+      - path: PC_Bone001/PC_054
+        weight: 1
+      - path: PC_Bone001/PC_055
+        weight: 1
+      - path: PC_Bone001/PC_056
+        weight: 1
+      - path: PC_Bone001/PC_057
+        weight: 1
+      - path: PC_Bone001/PC_058
+        weight: 1
+      - path: PC_Bone001/PC_059
+        weight: 1
+      - path: PC_Bone001/PC_060
+        weight: 1
+      - path: PC_Bone001/PC_061
+        weight: 1
+      - path: PC_Bone001/PC_062
+        weight: 1
+      - path: PC_Bone001/PC_063
+        weight: 1
+      - path: PC_Bone001/PC_064
+        weight: 1
+      - path: PC_Bone001/PC_065
+        weight: 1
+      - path: PC_Bone001/PC_066
+        weight: 1
+      - path: PC_Bone001/PC_067
+        weight: 1
+      - path: PC_Bone001/PC_068
+        weight: 1
+      - path: PC_Bone001/PC_069
+        weight: 1
+      - path: PC_Bone001/PC_070
+        weight: 1
+      - path: PC_Bone001/PC_071
+        weight: 1
+      - path: PC_Bone001/PC_072
+        weight: 1
+      - path: PC_Bone001/PC_073
+        weight: 1
+      - path: PC_Bone001/PC_074
+        weight: 1
+      - path: PC_Bone001/PC_075
+        weight: 1
+      - path: PC_Bone001/PC_076
+        weight: 1
+      - path: PC_Bone001/PC_077
+        weight: 1
+      - path: PC_Bone001/PC_078
+        weight: 1
+      - path: PC_Bone001/PC_080
+        weight: 1
+      - path: PC_Bone001/PC_081
+        weight: 1
+      - path: PC_Bone001/PC_082
+        weight: 1
+      - path: PC_Bone001/PC_083
+        weight: 1
+      - path: PC_Bone001/PC_084
+        weight: 1
+      - path: PC_Bone001/PC_085
+        weight: 1
+      - path: PC_Bone001/PC_086
+        weight: 1
+      - path: PC_Bone001/PC_087
+        weight: 1
+      - path: PC_Bone001/PC_088
+        weight: 1
+      - path: PC_Bone001/PC_089
+        weight: 1
+      - path: PC_Bone001/PC_090
+        weight: 1
+      - path: PC_Bone001/PC_Bone002
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone003
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone003/PC_Bone004
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone005
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone005/PC_Bone006
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone007
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone007/PC_Bone008
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone009
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone009/PC_Bone010
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone011
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone011/PC_Bone012
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone014
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone014/PC_Bone013
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone016
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone016/PC_Bone015
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone018
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone018/PC_Bone017
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone020
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone020/PC_Bone019
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone022
+        weight: 1
+      - path: PC_Bone001/PC_Bone002/PC_Bone022/PC_Bone021
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

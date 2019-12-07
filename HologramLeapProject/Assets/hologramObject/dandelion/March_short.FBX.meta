@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: a74c4ef2680d81946aa5ae09b810726f
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: dandelion_ani0
+  - first:
+      74: 8039767757343615466
+    second: dandelion_ani1
+  - first:
+      74: -5941996272578191876
+    second: dandelion_ani2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DandelionSeed
+    second: {fileID: 2100000, guid: a06bd15467f7fc04d8a42d41c1217731, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dandelion_ani0
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Seed_Cen
+        weight: 1
+      - path: Dandelion1
+        weight: 1
+      - path: Dandelion2
+        weight: 1
+      - path: Dandelion3
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      - path: Seed000
+        weight: 1
+      - path: Seed001
+        weight: 1
+      - path: Seed002
+        weight: 1
+      - path: Seed003
+        weight: 1
+      - path: Seed004
+        weight: 1
+      - path: Seed005
+        weight: 1
+      - path: Seed006
+        weight: 1
+      - path: Seed007
+        weight: 1
+      - path: Seed008
+        weight: 1
+      - path: Seed009
+        weight: 1
+      - path: Seed010
+        weight: 1
+      - path: Seed011
+        weight: 1
+      - path: Seed012
+        weight: 1
+      - path: Seed013
+        weight: 1
+      - path: Seed014
+        weight: 1
+      - path: Seed015
+        weight: 1
+      - path: Seed016
+        weight: 1
+      - path: Seed017
+        weight: 1
+      - path: Seed018
+        weight: 1
+      - path: Seed019
+        weight: 1
+      - path: Seed020
+        weight: 1
+      - path: Seed021
+        weight: 1
+      - path: Seed022
+        weight: 1
+      - path: Seed023
+        weight: 1
+      - path: Seed024
+        weight: 1
+      - path: Seed025
+        weight: 1
+      - path: Seed026
+        weight: 1
+      - path: Seed027
+        weight: 1
+      - path: Seed028
+        weight: 1
+      - path: Seed029
+        weight: 1
+      - path: Seed030
+        weight: 1
+      - path: Seed031
+        weight: 1
+      - path: Seed032
+        weight: 1
+      - path: Seed033
+        weight: 1
+      - path: Seed034
+        weight: 1
+      - path: Seed035
+        weight: 1
+      - path: Seed036
+        weight: 1
+      - path: Seed037
+        weight: 1
+      - path: Seed038
+        weight: 1
+      - path: Seed039
+        weight: 1
+      - path: Seed040
+        weight: 1
+      - path: Seed041
+        weight: 1
+      - path: Seed042
+        weight: 1
+      - path: Seed043
+        weight: 1
+      - path: Seed044
+        weight: 1
+      - path: Seed045
+        weight: 1
+      - path: Seed046
+        weight: 1
+      - path: Seed047
+        weight: 1
+      - path: Seed048
+        weight: 1
+      - path: Seed049
+        weight: 1
+      - path: Seed050
+        weight: 1
+      - path: Seed051
+        weight: 1
+      - path: Seed052
+        weight: 1
+      - path: Seed053
+        weight: 1
+      - path: Seed054
+        weight: 1
+      - path: Seed055
+        weight: 1
+      - path: Seed056
+        weight: 1
+      - path: Seed057
+        weight: 1
+      - path: Seed058
+        weight: 1
+      - path: Seed059
+        weight: 1
+      - path: Seed060
+        weight: 1
+      - path: Seed061
+        weight: 1
+      - path: Seed062
+        weight: 1
+      - path: Seed063
+        weight: 1
+      - path: Seed064
+        weight: 1
+      - path: Seed065
+        weight: 1
+      - path: Seed066
+        weight: 1
+      - path: Seed067
+        weight: 1
+      - path: Seed068
+        weight: 1
+      - path: Seed069
+        weight: 1
+      - path: Seed070
+        weight: 1
+      - path: Seed071
+        weight: 1
+      - path: Seed072
+        weight: 1
+      - path: Seed073
+        weight: 1
+      - path: Seed074
+        weight: 1
+      - path: Seed075
+        weight: 1
+      - path: Seed076
+        weight: 1
+      - path: Seed077
+        weight: 1
+      - path: Seed078
+        weight: 1
+      - path: Seed079
+        weight: 1
+      - path: Seed080
+        weight: 1
+      - path: Seed081
+        weight: 1
+      - path: Seed082
+        weight: 1
+      - path: Seed083
+        weight: 1
+      - path: Seed084
+        weight: 1
+      - path: Seed085
+        weight: 1
+      - path: Seed086
+        weight: 1
+      - path: Seed087
+        weight: 1
+      - path: Seed088
+        weight: 1
+      - path: Seed089
+        weight: 1
+      - path: Seed090
+        weight: 1
+      - path: Seed091
+        weight: 1
+      - path: Seed092
+        weight: 1
+      - path: Seed093
+        weight: 1
+      - path: Seed094
+        weight: 1
+      - path: Seed095
+        weight: 1
+      - path: Seed096
+        weight: 1
+      - path: Seed097
+        weight: 1
+      - path: Seed098
+        weight: 1
+      - path: Seed099
+        weight: 1
+      - path: Seed100
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dandelion_ani1
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 48
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Seed_Cen
+        weight: 1
+      - path: Dandelion1
+        weight: 1
+      - path: Dandelion2
+        weight: 1
+      - path: Dandelion3
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      - path: Seed000
+        weight: 1
+      - path: Seed001
+        weight: 1
+      - path: Seed002
+        weight: 1
+      - path: Seed003
+        weight: 1
+      - path: Seed004
+        weight: 1
+      - path: Seed005
+        weight: 1
+      - path: Seed006
+        weight: 1
+      - path: Seed007
+        weight: 1
+      - path: Seed008
+        weight: 1
+      - path: Seed009
+        weight: 1
+      - path: Seed010
+        weight: 1
+      - path: Seed011
+        weight: 1
+      - path: Seed012
+        weight: 1
+      - path: Seed013
+        weight: 1
+      - path: Seed014
+        weight: 1
+      - path: Seed015
+        weight: 1
+      - path: Seed016
+        weight: 1
+      - path: Seed017
+        weight: 1
+      - path: Seed018
+        weight: 1
+      - path: Seed019
+        weight: 1
+      - path: Seed020
+        weight: 1
+      - path: Seed021
+        weight: 1
+      - path: Seed022
+        weight: 1
+      - path: Seed023
+        weight: 1
+      - path: Seed024
+        weight: 1
+      - path: Seed025
+        weight: 1
+      - path: Seed026
+        weight: 1
+      - path: Seed027
+        weight: 1
+      - path: Seed028
+        weight: 1
+      - path: Seed029
+        weight: 1
+      - path: Seed030
+        weight: 1
+      - path: Seed031
+        weight: 1
+      - path: Seed032
+        weight: 1
+      - path: Seed033
+        weight: 1
+      - path: Seed034
+        weight: 1
+      - path: Seed035
+        weight: 1
+      - path: Seed036
+        weight: 1
+      - path: Seed037
+        weight: 1
+      - path: Seed038
+        weight: 1
+      - path: Seed039
+        weight: 1
+      - path: Seed040
+        weight: 1
+      - path: Seed041
+        weight: 1
+      - path: Seed042
+        weight: 1
+      - path: Seed043
+        weight: 1
+      - path: Seed044
+        weight: 1
+      - path: Seed045
+        weight: 1
+      - path: Seed046
+        weight: 1
+      - path: Seed047
+        weight: 1
+      - path: Seed048
+        weight: 1
+      - path: Seed049
+        weight: 1
+      - path: Seed050
+        weight: 1
+      - path: Seed051
+        weight: 1
+      - path: Seed052
+        weight: 1
+      - path: Seed053
+        weight: 1
+      - path: Seed054
+        weight: 1
+      - path: Seed055
+        weight: 1
+      - path: Seed056
+        weight: 1
+      - path: Seed057
+        weight: 1
+      - path: Seed058
+        weight: 1
+      - path: Seed059
+        weight: 1
+      - path: Seed060
+        weight: 1
+      - path: Seed061
+        weight: 1
+      - path: Seed062
+        weight: 1
+      - path: Seed063
+        weight: 1
+      - path: Seed064
+        weight: 1
+      - path: Seed065
+        weight: 1
+      - path: Seed066
+        weight: 1
+      - path: Seed067
+        weight: 1
+      - path: Seed068
+        weight: 1
+      - path: Seed069
+        weight: 1
+      - path: Seed070
+        weight: 1
+      - path: Seed071
+        weight: 1
+      - path: Seed072
+        weight: 1
+      - path: Seed073
+        weight: 1
+      - path: Seed074
+        weight: 1
+      - path: Seed075
+        weight: 1
+      - path: Seed076
+        weight: 1
+      - path: Seed077
+        weight: 1
+      - path: Seed078
+        weight: 1
+      - path: Seed079
+        weight: 1
+      - path: Seed080
+        weight: 1
+      - path: Seed081
+        weight: 1
+      - path: Seed082
+        weight: 1
+      - path: Seed083
+        weight: 1
+      - path: Seed084
+        weight: 1
+      - path: Seed085
+        weight: 1
+      - path: Seed086
+        weight: 1
+      - path: Seed087
+        weight: 1
+      - path: Seed088
+        weight: 1
+      - path: Seed089
+        weight: 1
+      - path: Seed090
+        weight: 1
+      - path: Seed091
+        weight: 1
+      - path: Seed092
+        weight: 1
+      - path: Seed093
+        weight: 1
+      - path: Seed094
+        weight: 1
+      - path: Seed095
+        weight: 1
+      - path: Seed096
+        weight: 1
+      - path: Seed097
+        weight: 1
+      - path: Seed098
+        weight: 1
+      - path: Seed099
+        weight: 1
+      - path: Seed100
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dandelion_ani2
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 351
+      lastFrame: 352
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Seed_Cen
+        weight: 1
+      - path: Dandelion1
+        weight: 1
+      - path: Dandelion2
+        weight: 1
+      - path: Dandelion3
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      - path: Seed000
+        weight: 1
+      - path: Seed001
+        weight: 1
+      - path: Seed002
+        weight: 1
+      - path: Seed003
+        weight: 1
+      - path: Seed004
+        weight: 1
+      - path: Seed005
+        weight: 1
+      - path: Seed006
+        weight: 1
+      - path: Seed007
+        weight: 1
+      - path: Seed008
+        weight: 1
+      - path: Seed009
+        weight: 1
+      - path: Seed010
+        weight: 1
+      - path: Seed011
+        weight: 1
+      - path: Seed012
+        weight: 1
+      - path: Seed013
+        weight: 1
+      - path: Seed014
+        weight: 1
+      - path: Seed015
+        weight: 1
+      - path: Seed016
+        weight: 1
+      - path: Seed017
+        weight: 1
+      - path: Seed018
+        weight: 1
+      - path: Seed019
+        weight: 1
+      - path: Seed020
+        weight: 1
+      - path: Seed021
+        weight: 1
+      - path: Seed022
+        weight: 1
+      - path: Seed023
+        weight: 1
+      - path: Seed024
+        weight: 1
+      - path: Seed025
+        weight: 1
+      - path: Seed026
+        weight: 1
+      - path: Seed027
+        weight: 1
+      - path: Seed028
+        weight: 1
+      - path: Seed029
+        weight: 1
+      - path: Seed030
+        weight: 1
+      - path: Seed031
+        weight: 1
+      - path: Seed032
+        weight: 1
+      - path: Seed033
+        weight: 1
+      - path: Seed034
+        weight: 1
+      - path: Seed035
+        weight: 1
+      - path: Seed036
+        weight: 1
+      - path: Seed037
+        weight: 1
+      - path: Seed038
+        weight: 1
+      - path: Seed039
+        weight: 1
+      - path: Seed040
+        weight: 1
+      - path: Seed041
+        weight: 1
+      - path: Seed042
+        weight: 1
+      - path: Seed043
+        weight: 1
+      - path: Seed044
+        weight: 1
+      - path: Seed045
+        weight: 1
+      - path: Seed046
+        weight: 1
+      - path: Seed047
+        weight: 1
+      - path: Seed048
+        weight: 1
+      - path: Seed049
+        weight: 1
+      - path: Seed050
+        weight: 1
+      - path: Seed051
+        weight: 1
+      - path: Seed052
+        weight: 1
+      - path: Seed053
+        weight: 1
+      - path: Seed054
+        weight: 1
+      - path: Seed055
+        weight: 1
+      - path: Seed056
+        weight: 1
+      - path: Seed057
+        weight: 1
+      - path: Seed058
+        weight: 1
+      - path: Seed059
+        weight: 1
+      - path: Seed060
+        weight: 1
+      - path: Seed061
+        weight: 1
+      - path: Seed062
+        weight: 1
+      - path: Seed063
+        weight: 1
+      - path: Seed064
+        weight: 1
+      - path: Seed065
+        weight: 1
+      - path: Seed066
+        weight: 1
+      - path: Seed067
+        weight: 1
+      - path: Seed068
+        weight: 1
+      - path: Seed069
+        weight: 1
+      - path: Seed070
+        weight: 1
+      - path: Seed071
+        weight: 1
+      - path: Seed072
+        weight: 1
+      - path: Seed073
+        weight: 1
+      - path: Seed074
+        weight: 1
+      - path: Seed075
+        weight: 1
+      - path: Seed076
+        weight: 1
+      - path: Seed077
+        weight: 1
+      - path: Seed078
+        weight: 1
+      - path: Seed079
+        weight: 1
+      - path: Seed080
+        weight: 1
+      - path: Seed081
+        weight: 1
+      - path: Seed082
+        weight: 1
+      - path: Seed083
+        weight: 1
+      - path: Seed084
+        weight: 1
+      - path: Seed085
+        weight: 1
+      - path: Seed086
+        weight: 1
+      - path: Seed087
+        weight: 1
+      - path: Seed088
+        weight: 1
+      - path: Seed089
+        weight: 1
+      - path: Seed090
+        weight: 1
+      - path: Seed091
+        weight: 1
+      - path: Seed092
+        weight: 1
+      - path: Seed093
+        weight: 1
+      - path: Seed094
+        weight: 1
+      - path: Seed095
+        weight: 1
+      - path: Seed096
+        weight: 1
+      - path: Seed097
+        weight: 1
+      - path: Seed098
+        weight: 1
+      - path: Seed099
+        weight: 1
+      - path: Seed100
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
